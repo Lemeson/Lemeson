@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lemeson
 - 👀 I’m interested in become a data cientist or a Devop
 - 🌱 I’m currently learning html, python, algothms, science's history
-- 💞️ I’m looking to collaborate on nothing in this moment
+- 💞️ I’m looking to collaborate in python works or similars
 - 📫 How to reach me by the email: lemeson93@gmail.com
 
 <!---
